@@ -1,0 +1,12 @@
+roboflow-demo/
+├── 📂 scripts/
+│   ├── annotate_predictions.py
+│   ├── blur_predictions.py
+│   ├── count_predictions.py
+│   ├── count_in_zone.py
+│   ├── count_across_line.py
+│   └── sahi_inference.py
+├── 📂 utils/
+│   └── config.py
+├── requirements.txt
+└── README.md

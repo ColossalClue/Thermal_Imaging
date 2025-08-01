@@ -1,0 +1,5 @@
+roboflow
+supervision
+opencv-python
+numpy
+sahi
